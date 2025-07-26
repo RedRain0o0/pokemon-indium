@@ -1,0 +1,9 @@
+3,5,1,1
+PlayerName
+RivalName
+Pokemon1,0,false
+Pokemon2,0,false
+Pokemon3,0,false
+Pokemon4,0,false
+Pokemon5,0,false
+Pokemon6,0,false
